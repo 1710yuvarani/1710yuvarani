@@ -38,7 +38,8 @@ Front-end | back-end | react & Django Developer
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/HP-Laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ![Yuvarani's GitHub stats](https://github-readme-stats.vercel.app/api?username=1710yuvarani&theme=dark&show_icons=true&&hide=issues,contribs)
 
