@@ -5,9 +5,7 @@ Front-end | back-end | react & Django Developer
 
 🚀 Seeking opportunities to begin my career as a Software Developer in reputed IT firms
 
-<img align="right" width="370" height="290" src="https://www.google.com/imgres?q=cute%20anime%20girl%20on%20computer&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20250513%2Foriginal%2Fpngtree-cute-girl-working-from-home-on-computer-png-image_20972296.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fcute-girl-working-from-home-on-computer_20972296.html&docid=fnJbUXjbCFFUqM&tbnid=q-rKXilll_XeJM&vet=12ahUKEwit37W-ut-QAxXQWXADHbrBF34QM3oECEQQAA..i&w=2500&h=2500&hcb=2&ved=2ahUKEwit37W-ut-QAxXQWXADHbrBF34QM3oECEQQAA">
-
-
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Here's my [portfolio](https://.web.app/)                                                 
 - 🎓 Recent B.Sc. Computer Science Graduate  
