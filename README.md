@@ -13,7 +13,7 @@ Front-end | back-end | react & Django Developer
 - 🌱 Currently learning Full Stack Development 
 - ⚡ Fun fact: I love exploring new tech and building mini projects <br/>
 - Social Presence  
-<br /> ⭐ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuvarani-arumugam-60b932285/) 🌟
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuvarani-arumugam-60b932285/) 
 [<img src="https://img.shields.io/badge/Naukri-2D6CB8?style=for-the-badge&logo=briefcase&logoColor=white" />](https://www.naukri.com/mnjuser/profile/yuvarani)
 
 
@@ -26,7 +26,7 @@ Front-end | back-end | react & Django Developer
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/><img height="50" width="50" src="https://img.icons8.com/ios-glyphs/60/000000/github.png"/> 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/HP-Laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
 
 
 ![Yuvarani's GitHub stats](https://github-readme-stats.vercel.app/api?username=1710yuvarani&theme=dark&show_icons=true&&hide=issues,contribs)
