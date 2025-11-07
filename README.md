@@ -16,7 +16,8 @@ Front-end | back-end | react & Django Developer
 ### 🌐 Find me online
 
 <a href="https://www.linkedin.com/in/yuvarani-arumugam-60b932285/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="120"/>
+
   </a> 
 
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yuvarani17102004@gmail.com" target="_blank">
@@ -24,7 +25,8 @@ Front-end | back-end | react & Django Developer
   </a> 
 
  <a href="https://www.naukri.com/mnjuser/profile/yuvarani" target="_blank">
-    <img src="https://img.shields.io/badge/Naukri-2D6CB8?style=for-the-badge&logo=briefcase&logoColor=white" />
+<img src="https://static.naukimg.com/s/4/100/i/naukri_Logo.png" alt="Naukri" width="120" />
+
   </a>
 
 
