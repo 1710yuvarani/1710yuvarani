@@ -13,7 +13,7 @@ Front-end | back-end | react & Django Developer
 - 🌱 Currently learning Full Stack Development 
 - ⚡ Fun fact: I love exploring new tech and building mini projects <br/>
 - Social Presence  
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuvarani-arumugam-60b932285/)
+<br /> 🌟 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuvarani-arumugam-60b932285/) 🌟
 [<img src="https://img.shields.io/badge/Naukri-2D6CB8?style=for-the-badge&logo=briefcase&logoColor=white" />](https://www.naukri.com/mnjuser/profile/yuvarani)
 
 
