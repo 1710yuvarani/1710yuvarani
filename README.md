@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Yuvarani
 
 Aspiring Software Developer | Learning Python Full Stack Development  | Front-end | backend | react & Django Developer 
-🚀 Seeking opportunities to begin my career as a Software Developer in reputed IT firms
+- 🚀 Seeking opportunities to begin my career as a Software Developer in reputed IT firms
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://.web.app/)                                                 
