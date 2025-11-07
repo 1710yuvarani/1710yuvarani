@@ -5,7 +5,7 @@ Front-end | back-end | react & Django Developer
 
 🚀 Seeking opportunities to begin my career as a Software Developer in reputed IT firms
 
-<img align="right" width="370" height="290" src="https://www.google.com/imgres?q=laptop%20working%20anime%20girl%20on%20computer%20with%20happynes&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fyoung-woman-with-cat-working-laptop-from-home_960396-708418.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fadorable-anime-girl-using-laptop&docid=TIgmjWembydjhM&tbnid=pi7TGbLYyHUOmM&vet=12ahUKEwj8qcelut-QAxU0VmwGHT42A4AQM3oECDgQAA..i&w=740&h=493&hcb=2&ved=2ahUKEwj8qcelut-QAxU0VmwGHT42A4AQM3oECDgQAA">
+<img align="right" width="370" height="290" src="https://www.google.com/imgres?q=cute%20anime%20girl%20on%20computer&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20250513%2Foriginal%2Fpngtree-cute-girl-working-from-home-on-computer-png-image_20972296.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fcute-girl-working-from-home-on-computer_20972296.html&docid=fnJbUXjbCFFUqM&tbnid=q-rKXilll_XeJM&vet=12ahUKEwit37W-ut-QAxXQWXADHbrBF34QM3oECEQQAA..i&w=2500&h=2500&hcb=2&ved=2ahUKEwit37W-ut-QAxXQWXADHbrBF34QM3oECEQQAA">
 
 
 
