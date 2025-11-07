@@ -5,7 +5,7 @@ Front-end | back-end | react & Django Developer
 
 🚀 Seeking opportunities to begin my career as a Software Developer in reputed IT firms
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/0b/1b/7b/0b1b7beecfce7c5b6a42cfe1b28a7b55.gif">
+<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/0b/1b/7b/0b1b7beecfce7c5b6a42cfe1b28a7b55.gif"/>
 
 - 🔭 Here's my [portfolio](https://.web.app/)                                                 
 - 🎓 Recent B.Sc. Computer Science Graduate  
