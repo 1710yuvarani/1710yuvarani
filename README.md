@@ -12,9 +12,9 @@ Front-end | back-end | react & Django Developer
 - 🎓 Recent B.Sc. Computer Science Graduate  
 - 🌱 Currently learning Full Stack Development 
 - ⚡ Fun fact: I love exploring new tech and building mini projects <br/>
-- Social Presence  
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuvarani-arumugam-60b932285/) 
-[<img src="https://img.shields.io/badge/Naukri-2D6CB8?style=for-the-badge&logo=briefcase&logoColor=white" />](https://www.naukri.com/mnjuser/profile/yuvarani)
+- 🌐 Find me online 
+<br />💬 How to reach me on Social Media
+<a href="https://www.linkedin.com/in/yuvarani-arumugam-60b932285/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.naukri.com/mnjuser/profile/yuvarani" target="_blank"> <img src="https://img.shields.io/badge/Naukri-2D6CB8?style=for-the-badge&logo=briefcase&logoColor=white" /> </a> <a href="mailto:yuvarani@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 
 
