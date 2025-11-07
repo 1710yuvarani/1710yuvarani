@@ -5,7 +5,7 @@ Front-end | back-end | react & Django Developer
 
 🚀 Seeking opportunities to begin my career as a Software Developer in reputed IT firms
 
-<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fworking-girl%2F10&psig=AOvVaw3s4cE4uwZXkB_D9E87q3oX&ust=1762584384134000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCbk92435ADFQAAAAAdAAAAABAK)">
+<img align="right" width="370" height="290" src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fworking-girl%2F10&psig=AOvVaw3s4cE4uwZXkB_D9E87q3oX&ust=1762584384134000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCbk92435ADFQAAAAAdAAAAABAK)">
 
 
 
