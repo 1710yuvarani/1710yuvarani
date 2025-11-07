@@ -17,7 +17,7 @@ Aspiring Software Developer | Learning Python Full Stack Development  | Front-en
 
 
 ### 🛠️ IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/<img height="50" width="50" src="https://img.icons8.com/ios-glyphs/60/000000/github.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/><img height="50" width="50" src="https://img.icons8.com/ios-glyphs/60/000000/github.png"/> 
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>
