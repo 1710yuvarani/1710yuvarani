@@ -39,11 +39,7 @@ Front-end | back-end | react & Django Developer
 <img height="30" src="https://img.shields.io/badge/HP-Laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 ![Yuvarani's GitHub stats](https://github-readme-stats.vercel.app/api?username=1710yuvarani&show_icons=true&theme=radical)
 
-
-![Yuvarani's GitHub stats](https://github-readme-stats.vercel.app/api?username=1710yuvarani&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![Yuvarani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1710yuvarani&bg_color=1f1e1f&color=ed07de&line=94148c&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
